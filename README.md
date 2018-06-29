@@ -9,7 +9,7 @@ JSP를 사용해 강의평가 사이트를 구현.
 ## 회원가입 및 이메일 인증
 <div>
 <img width= "400" src="https://user-images.githubusercontent.com/38181303/42099471-75ecdf0a-7bf8-11e8-8b60-5c31267db1a0.png">
-<img width= "400" src="https://user-images.githubusercontent.com/38181303/42099651-f387c844-7bf8-11e8-8986-d3c27daf00a0.png">
+<img width= "400" src="https://user-images.githubusercontent.com/38181303/42100066-20a82f98-7bfa-11e8-9276-a0b32a4ebf86.png">
 </div>
 <div>
 <img width= "400" src="https://user-images.githubusercontent.com/38181303/42099774-5461eb40-7bf9-11e8-81c7-58a4a0614cf1.png">
