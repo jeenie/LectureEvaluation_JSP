@@ -60,7 +60,7 @@ public class UserDAO {
 			try { if(rs != null) rs.close(); }
 			catch (Exception e) { e.printStackTrace(); }
 		}
-		return -1; //회원가입 실패
+		return -1; //회원가입 실패(중복된 아이디)
 	}
 	
 	public String getUserEmail (String userID) {
