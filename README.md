@@ -16,23 +16,26 @@ JSP를 사용해 강의평가 사이트를 구현.
 <img width= "400" src="https://user-images.githubusercontent.com/38181303/42099830-7e4c2880-7bf9-11e8-93b1-e9fbf113df68.png">
 </div>
 
+## XSS 방어
+<img width= "400" src="https://user-images.githubusercontent.com/38181303/42285165-aa7a817e-7fe9-11e8-8912-7052ba0c75b2.png">
+<img width= "400" src="https://user-images.githubusercontent.com/38181303/42285180-b4abc6f8-7fe9-11e8-8ce6-6050f2e8b8f4.png">
+
 ## 구현한 것
 - 메인 페이지 디자인  
   - 강의 평가 데이터 DB 조회
 - 등록, 신고하기 
   - modal로 구현
 - 로그인, 회원가입 페이지 디자인
-- 강의 평가 데이터베이스 구축하기
-- 회원 데이터 모델링
 - 회원가입 및 이메일 인증
+- 강의 평가 데이터베이스 구축, 데이터 모델링
 - 로그인, 로그아웃 
   - session 구현
-- 강의평가 등록 기능
-- 신고하기 기능
+- 강의평가 등록, 신고하기 기능
 - 미니 검색 엔진
+- 추천 및 강의 평가 삭제
+- XSS 방어
 
-## 앞으로 해야할 것
-- 추천 기능
+## 프로젝트 완성
 
 ## 강의 사이트
 [출처] JSP 강의평가 웹사이트 개발하기  
