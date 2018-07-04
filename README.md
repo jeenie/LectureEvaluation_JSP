@@ -17,8 +17,10 @@ JSP를 사용해 강의평가 사이트를 구현.
 </div>
 
 ## XSS 방어
+<div>
 <img width= "400" src="https://user-images.githubusercontent.com/38181303/42285165-aa7a817e-7fe9-11e8-8912-7052ba0c75b2.png">
 <img width= "400" src="https://user-images.githubusercontent.com/38181303/42285180-b4abc6f8-7fe9-11e8-8ce6-6050f2e8b8f4.png">
+</div>
 
 ## 구현한 것
 - 메인 페이지 디자인  
@@ -35,8 +37,9 @@ JSP를 사용해 강의평가 사이트를 구현.
 - 추천 및 강의 평가 삭제
 - XSS 방어
 
-## 프로젝트 완성
-
 ## 강의 사이트
 [출처] JSP 강의평가 웹사이트 개발하기  
 https://www.inflearn.com/course/%EA%B0%95%EC%9D%98%ED%8F%89%EA%B0%80-%EC%82%AC%EC%9D%B4%ED%8A%B8-jsp/
+
+
+## 프로젝트 완성
