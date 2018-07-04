@@ -13,7 +13,7 @@ public class Evaluation {
 	String totalScore;
 	String creditScore;
 	String comfortableScore;
-	String lectureSrcore;
+	String lectureScore;
 	int likeCount;
 	
 	public Evaluation() {
@@ -36,7 +36,7 @@ public class Evaluation {
 		this.totalScore = totalScore;
 		this.creditScore = creditScore;
 		this.comfortableScore = comfortableScore;
-		this.lectureSrcore = lectureSrcore;
+		this.lectureScore = lectureSrcore;
 		this.likeCount = likeCount;
 	}
 	
@@ -112,11 +112,11 @@ public class Evaluation {
 	public void setComfortableScore(String comfortableScore) {
 		this.comfortableScore = comfortableScore;
 	}
-	public String getLectureSrcore() {
-		return lectureSrcore;
+	public String getLectureScore() {
+		return lectureScore;
 	}
-	public void setLectureSrcore(String lectureSrcore) {
-		this.lectureSrcore = lectureSrcore;
+	public void setLectureScore(String lectureScore) {
+		this.lectureScore = lectureScore;
 	}
 	public int getLikeCount() {
 		return likeCount;
